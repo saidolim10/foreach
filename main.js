@@ -10,6 +10,5 @@ arr.forEach((e) => {
   }
 });
 
-
+console.log(arr, 'HAMMASI');
 console.log(fivePass, 'N HARFI BORI');
-console.log(fiveFall, 'N HARFI YOGI');
